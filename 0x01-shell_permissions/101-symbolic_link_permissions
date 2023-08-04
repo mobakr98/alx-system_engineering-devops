@@ -1,0 +1,2 @@
+#!/bin/bash
+chown -R vincnent:staff _hello
