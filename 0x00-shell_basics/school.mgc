@@ -1,4 +1,4 @@
 #!/bin/bash
-0 string SCHOOL School data file
-file -C -m school.mgc
-file -m school.mgc.mgc your_data_file
+0 string SCHOOL
+file -C -m school.magic
+file -m school.mgc *
